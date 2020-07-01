@@ -1,0 +1,92 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight{
+    color: rgb(255, 0, 106);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, pink, orangered); 
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.middle-part h2{
+    text-align: center;
+}
+.latest-work img{
+    width:30%;
+}
+
+.work img{
+    float: left;
+    width:28%;
+
+}
+.bottom-part{
+    background-image: url(images/footer-bg.png);
+    text-align: center;
+}
+.last-part{
+    width: 80%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.bottom-part p{
+    font-size:16px;
+    color: black;
+}
+h5{
+    color: dimgray;
+}
+.leave-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, pink,orangered); 
+    padding: 50px 100px 50px 100px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+    footer p{
+    text-align: center;
+    font-size: 10px;
+}
